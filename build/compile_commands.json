@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dox/Algorithm/MergeImageKD/build/bin",
+  "command": "/usr/bin/c++    -I/usr/local/include  -g   -o CMakeFiles/mergeimage.dir/main.cpp.o -c /home/dox/Algorithm/MergeImageKD/src/main.cpp",
+  "file": "/home/dox/Algorithm/MergeImageKD/src/main.cpp"
+}
+]

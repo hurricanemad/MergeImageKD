@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/mergeimagekd.dir/main.cpp.o  -o mergeimagekd -rdynamic 

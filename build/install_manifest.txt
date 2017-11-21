@@ -1,0 +1,4 @@
+/home/dox/Algorithm/MergeImageKD/build/./install/image/Background.bmp
+/home/dox/Algorithm/MergeImageKD/build/./install/image/CMakeLists.txt
+/home/dox/Algorithm/MergeImageKD/build/./install/image/Person.bmp
+/home/dox/Algorithm/MergeImageKD/build/./install/bin/mergeimage
